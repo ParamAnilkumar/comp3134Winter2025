@@ -1,0 +1,37 @@
+root@comp3134-Winter2025:~# apt-get install traceroute
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  traceroute
+0 upgraded, 1 newly installed, 0 to remove and 219 not upgraded.
+Need to get 45.4 kB of archives.
+After this operation, 152 kB of additional disk space will be used.
+Get:1 http://mirrors.digitalocean.com/ubuntu jammy/universe amd64 traceroute amd64 1:2.1.0-2 [45.4 kB]
+Fetched 45.4 kB in 0s (969 kB/s)
+Selecting previously unselected package traceroute.
+(Reading database ... 97399 files and directories currently installed.)
+Preparing to unpack .../traceroute_1%3a2.1.0-2_amd64.deb ...
+Unpacking traceroute (1:2.1.0-2) ...
+Setting up traceroute (1:2.1.0-2) ...
+update-alternatives: using /usr/bin/traceroute.db to provide /usr/bin/traceroute (traceroute) in auto mode
+update-alternatives: using /usr/bin/traceroute6.db to provide /usr/bin/traceroute6 (traceroute6) in auto mode
+update-alternatives: using /usr/bin/lft.db to provide /usr/bin/lft (lft) in auto mode
+update-alternatives: using /usr/bin/traceproto.db to provide /usr/bin/traceproto (traceproto) in auto mode
+update-alternatives: using /usr/sbin/tcptraceroute.db to provide /usr/sbin/tcptraceroute (tcptraceroute) in auto mode
+Processing triggers for man-db (2.10.2-1) ...
+Scanning processes...
+Scanning linux images...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+root@comp3134-Winter2025:~# traceroute 165.22.237.185
+traceroute to 165.22.237.185 (165.22.237.185), 30 hops max, 60 byte packets
+ 1  comp3134-Winter2025 (165.22.237.185)  0.031 ms  0.008 ms  0.005 ms

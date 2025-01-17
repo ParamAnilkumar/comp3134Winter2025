@@ -1,0 +1,40 @@
+Samsung.com 211.45.27.231
+Hosted by SamsungSDS Inc. SamsungSDS Inc.
+SamsungSDS Inc.
+Location	Seoul, Seoul, Korea, Republic of
+AS	AS6619
+AS name	SamsungSDS Inc.
+---------------------------------------------------------------------------------------------
+GitHub.com 
+140.82.116.3	
+Hosted by GitHub, Inc. GitHub, Inc.
+GitHub, Inc.
+Location	Seattle, Washington, United States of America
+AS	AS36459
+AS name	GitHub, Inc.
+---------------------------------------------------------------------------------------------
+
+adobe.com
+23.45.112.48	
+Hosted by Akamai International B.V. Akamai International B.V.
+Akamai Technologies, Inc.
+Location	San Jose, California, United States of America
+AS	AS20940
+AS name	Akamai International B.V.
+---------------------------------------------------------------------------------------------
+
+McDonalds.com
+44.208.147.61	
+Hosted by Amazon.com, Inc. Amazon.com, Inc.
+Amazon Data Services NoVa
+Location	Ashburn, Virginia, United States of America
+AS	AS14618
+AS name	Amazon.com, Inc.
+---------------------------------------------------------------------------------------------
+shaadi.com
+104.18.25.17	
+Hosted by Cloudflare, Inc. Cloudflare, Inc.
+Cloudflare, Inc.
+Location	San Francisco, California, United States of America
+AS	AS13335
+AS name	Cloudflare, Inc.

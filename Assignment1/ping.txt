@@ -1,0 +1,13 @@
+PS C:\Users\param> ping adobe.com
+
+Pinging adobe.com [23.223.17.138] with 32 bytes of data:
+Reply from 23.223.17.138: bytes=32 time=7ms TTL=58
+Reply from 23.223.17.138: bytes=32 time=58ms TTL=58
+Reply from 23.223.17.138: bytes=32 time=12ms TTL=58
+Reply from 23.223.17.138: bytes=32 time=7ms TTL=58
+
+Ping statistics for 23.223.17.138:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 58ms, Average = 21ms
+PS C:\Users\param>

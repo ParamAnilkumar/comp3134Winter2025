@@ -1,0 +1,35 @@
+        0x42c0:  586b 6f58 bccd 26a9 4755 4f11 2ef8 29eb  XkoX..&.GUO...).
+        0x42d0:  7803 c42d 900f fa33 5028 0b28 384f 813b  x..-...3P(.(8O.;
+        0x42e0:  8e05 a33b 23a7 8234 8ed0 d4e7 1bbc d4bc  ...;#..4........
+        0x42f0:  f722 fe14 2d89 04d1 44bf 95c5 39ce 86c2  ."..-...D...9...
+        0x4300:  cab2 2adc ad24 22db b9e5 87e7 5512 bf6a  ..*..$".....U..j
+        0x4310:  c216 cc33 8791 d3aa e01c de7d c8d3 ee74  ...3.......}...t
+        0x4320:  af9e 2fa9 fe73 c1af cd68 8e0d bb94 986f  ../..s...h.....o
+        0x4330:  5928 40f8 b128 7f74 7810 452d 4547 82d3  Y(@..(.tx.E-EG..
+        0x4340:  8be9 ad6e efdf ebd0 073f fc7f 8092 e822  ...n.....?....."
+        0x4350:  b370 6ea2 8700 ddb0 b912 df33 9af1 cbf5  .pn........3....
+        0x4360:  60c4 5124 58cf 5006 3dfe 81d3 311f a83c  `.Q$X.P.=...1..<
+        0x4370:  69d8 6393 2546 4836 9b8e 97a9 f074 c744  i.c.%FH6.....t.D
+        0x4380:  1b23 daaf 8c8a cc4e 2599 7cde 319e 8dd8  .#.....N%.|.1...
+        0x4390:  94ad 26ee 9b63 6750 aa6a 0af8 603a 0a45  ..&..cgP.j..`:.E
+        0x43a0:  7944 ae6a 5cd5 dd76 30bb 1850 f8e7 0b06  yD.j\..v0..P....
+        0x43b0:  8b49 89e6 ac9d 5e73 036b ebec d28a 0e1e  .I....^s.k......
+        0x43c0:  2f28 6232 d694 6743 fe4d 7391 04ef 5e88  /(b2..gC.Ms...^.
+        0x43d0:  6669 577a 0c63 b261 327e f7c6 e6e0 fcfd  fiWz.c.a2~......
+        0x43e0:  bdce 82e7 e524 fa7f c899 7059 4289 34f1  .....$....pYB.4.
+        0x43f0:  9ee4 09ea 9283 5a55 d1f8 8986 709a 1560  ......ZU....p..`
+        0x4400:  8f19 ffde 7000 6c14 2d6a 584b 5405 659a  ....p.l.-jXKT.e.
+        0x4410:  24ea 40ec 7bb8 7e29 f665 e7cf 3086 def8  $.@.{.~).e..0...
+        0x4420:  2f09 3e2a ac21 2a53 cd17 5203 0a6e 24d2  /.>*.!*S..R..n$.
+        0x4430:  6ccd 1fc3 55eb 9327 2c0c 89b8 d0b1 f783  l...U..',.......
+        0x4440:  4ae1 99a2 dd1f 7895 6b01 2d6d 1556 8404  J.....x.k.-m.V..
+        0x4450:  f393 bfe4 3a3d f78f 75d8 c793 f138 5976  ....:=..u....8Yv
+        0x4460:  9699 6e3c 5358 f5be 5b6d c89c b95d 4ccb  ..n<SX..[m...]L.
+        0x4470:  44d2 df46 af91 aabe 7a58 5ab8 0371 9c84  D..F....zXZ..q..
+        0x4480:  9a3b c8b5 3eb6 170d e256 2276 00a8 7e17  .;..>....V"v..~.
+        0x4490:  881e                                     ..
+
+2344 packets captured
+3550 packets received by filter
+1040 packets dropped by kernel
+root@comp3134-Winter2025:~#

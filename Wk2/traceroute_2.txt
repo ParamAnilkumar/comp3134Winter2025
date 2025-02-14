@@ -1,3 +1,0 @@
-root@comp3134-Winter2025:~# traceroute 165.22.237.185
-traceroute to 165.22.237.185 (165.22.237.185), 30 hops max, 60 byte packets
- 1  comp3134-Winter2025 (165.22.237.185)  0.027 ms  0.007 ms  0.006 ms

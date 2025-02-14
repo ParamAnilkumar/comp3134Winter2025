@@ -1,0 +1,10 @@
+root@comp3134-Winter2025:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:08:20.558630 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 3695338370:3695338478, ack 3198061018, win 501, length 108
+22:08:20.558723 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 108:144, ack 1, win 501, length 36
+22:08:20.558771 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 144:196, ack 1, win 501, length 52
+22:08:20.558817 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 196:264, ack 1, win 501, length 68
+22:08:20.558863 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 264:332, ack 1, win 501, length 68
+22:08:20.558906 IP comp3134-Winter2025.ssh > 198.96.84.204.53986: Flags [P.], seq 332:368, ack 1, win 501, length 36
+22:08:20.565115 IP 198.96.84.204.53986 > comp3134-Winter2025.ssh: Flags [.], ack 368, win 511, length 0

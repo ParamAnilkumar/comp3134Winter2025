@@ -1,0 +1,12 @@
+ARP spoofing is a type of attack where an attacker tricks a network device into associating 
+their MAC address with a legitimate IP address. This allows them to intercept or modify network 
+traffic. 
+
+To prevent ARP spoofing:
+1. Enable Dynamic ARP Inspection (DAI) on managed switches.
+2. Use static ARP entries for critical systems.
+3. Use encrypted protocols like SSH, HTTPS, and VPNs to protect sensitive data.
+4. Monitor ARP tables for unexpected changes using intrusion detection systems.
+5. Use anti-ARP spoofing tools such as Arpwatch or netcut protection.
+
+Implementing these measures helps secure the network from ARP-based attacks.

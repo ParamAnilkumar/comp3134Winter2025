@@ -1,0 +1,6 @@
+Encryption prevents credential exposure by using secure protocols like HTTPS and TLS. 
+When a user logs into a website using HTTPS, the data is encrypted before being sent 
+over the network. This means that even if an attacker intercepts the traffic, they will 
+see only encrypted gibberish instead of plaintext credentials. TLS (Transport Layer Security) 
+establishes a secure handshake between the client and server, ensuring confidentiality and 
+data integrity. Websites should always enforce HTTPS to protect user data from sniffing attacks.

@@ -1,0 +1,3 @@
+root@comp3134-Winter2025:~# tcpdump -i any -w all_traffic_20250307_1822.pcap
+tcpdump: data link type LINUX_SLL2
+tcpdump: listening on any, link-type LINUX_SLL2 (Linux cooked v2), snapshot length 262144 bytes

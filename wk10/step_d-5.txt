@@ -1,0 +1,3 @@
+The content of the parent directory of the current folder is listed, even though the input was URL encoded.
+It confirms that input is not being sanitized or decoded securely.
+Attackers can bypass naive security filters using encoded input to access unauthorized directories.

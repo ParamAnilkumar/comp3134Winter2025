@@ -1,0 +1,10 @@
+Issue:
+- The original HTML comments contain sensitive information such as employee name and ID.
+- HTML comments are visible in the browser source code and can be seen by anyone.
+
+Mitigation:
+- Converted all HTML comments to PHP comments.
+- PHP comments are executed on the server-side and do not appear in the browser's source code.
+- This prevents sensitive internal metadata from being exposed to end users.
+
+By doing this, we protect internal developer information from being publicly visible.

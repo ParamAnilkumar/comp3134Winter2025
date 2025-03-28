@@ -1,0 +1,25 @@
+Task 1
+Domain: w3schools.com
+Cookie name: APC
+Value: AfxxVi5Jw4XFmBa8lKn_Hsfad1LCAqOJ3OdYy5cRouXJImeqcp2VoQ
+Path: / , https://www.w3schools.com/java/
+
+Domain: mongodb.com
+Cookie name : OptanonConsent
+Value: isGpcEnabled=0&datestamp=Fri+Mar+21+2025+14%3A45%3A11+GMT-0400+(Eastern+Daylight+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db6078ca-72de-49d7-bd04-641184111906&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0&geolocation=CA%3BON&AwaitingReconsent=false
+Path: / , https://www.mongodb.com/lp/cloud/atlas/try4-reg?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core-high-int_prosp-brand_gic-null_ww-tier1_ps-all_desktop_eng_lead&utm_term=mongodb%20atlas&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=22031347569&adgroup=173739098393&cq_cmp=22031347569&gad_source=1&gclid=CjwKCAjwnPS-BhBxEiwAZjMF0sPC0gPq6OVQdMHVXbWeNuiWWwRBwG5bfhdsxRO3al9LvpyWWBtwPhoCpjwQAvD_BwE
+
+Domain: pubg.com
+Cookie name : analytics
+Value: N
+Path: /, https://pubg.com/en/events/8th_anniversary
+
+Domain: youtube.com
+Cookie name: _ga_6VGGZHMLM2
+Value: GS1.1.1733960369.3.0.1733960412.0.0.0
+Path: /, https://www.youtube.com/
+
+Domain: codepen.io
+Cookie name: __cfruid
+Value: 60e8662676e99342d42a908d0d29e55140f020ca-1742582982
+Path: /, https://codepen.io/

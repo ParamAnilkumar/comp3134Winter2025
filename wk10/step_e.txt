@@ -1,0 +1,7 @@
+1.Avoid Accessing Files Before HTML Directory
+We used the `basename()` function to ensure that only the last component of the path is used. This prevents directory traversal attacks like `../../` that could allow an attacker to view files outside the allowed directory.
+
+2.Ensure Path Exists
+We use `file_exists()` to verify that the specified directory or file actually exists before attempting to read it. This avoids errors caused by accessing non-existent files.
+
+Additionally, we restrict access to directories that contain `.` characters to further protect against traversal attempts.

@@ -1,0 +1,2 @@
+there are directories and files listed which are located two level behind the web root directory.
+The server is exposing file and folder names from potentially sensitive locations like /var This could lead to discovery of system files, configuration files, or user directories.

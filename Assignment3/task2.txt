@@ -1,0 +1,21 @@
+facebook.com, https://www.facebook.com/r.php?locale=en_US&display=page&entry_point=login
+1.<input type="hidden" name="jazoest" value="21009" autocomplete="off">
+2.<input type="hidden" name="lsd" value="AVo0gzNPkfk" autocomplete="off">
+3.<input type="hidden" autocomplete="off" id="referrer" name="referrer" value="">
+4.<input type="hidden" autocomplete="off" id="use_custom_gender" name="use_custom_gender" value="">
+Method- POST
+
+
+apple.com
+iforgot.apple.com/password/verify/applied
+1.<input type="hidden" name="language" value="en_US">
+2.<input type="hidden" id="fdcBrowserData" value="{&quot;U&quot;:&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36&quot;,&quot;L&quot;:&quot;en-US&quot;,&quot;Z&quot;:&quot;GMT-04:00&quot;,&quot;V&quot;:&quot;1.1&quot;,&quot;F&quot;:&quot;sla44j1e3NlY5BNlY5BSs5uQ32SCVgcK5ua9bgZELy.pk6Hb9LarUqUdHz16rgNNl_ia4WFL3b99Re4GhrdUeBzIqxv55BNlY5CGWY5BOgkLT0XxU...Pr&quot;}">
+3.<input type="hidden" id="globalnav-searchfield-src" name="src" value="globalnav">
+4.<input type="hidden" name="state" value="AQDuITZpZ+WZNmjov8zjRH+uXTRKkOhtmOt1gmBF6G1pzlfdeKAEKFRuoxcZ9zE5JCO3GCAVz7tUZFztdxs0xr7kAKvL+4GDww55Wci9YWUywoJcp/3ExPgOd1axvmRHuuQP+XpAe6eeAxVoBqpy7O563Kx8q7HqGpAf6OB6sk0f3opm+3gdtAWuCbd/Z+7CXWmD2xi4OXQRp+5dgdYhe473J/YBYFzNhVjzfJJ4fSyO2OcJLmcwnwn+7Bn9SdWvWEwWyOmqNDEje6ZQz5xYZXHNrbhxIk+rWgY5rngR4ALpLOVNWuP6XKWU9hbriDoqGczks0Op/MX0bqAFR5ALDnutZicbRBrxGNov2PKMtIDa2R2MQxZFD4JB0KxR1n5WDJJ6mKCYHb4VMDqs7MhtiM/OIH3oh/mero+Y4B90tO61xB2AF8j1gX6y43WK18a4F8ZQpI6qqw3xHcpUEnzSksHs8mR4Y9gPWMyVcMOfhTBLEOzRMMh0QeB2FWUlY17T5HlS6XWFw4Aa9kZMM63WbEPW9ZqKcSi3HB6uAl4E4oUkV4rJMVF3TxrGY0krkJJMISfM36l3+6E3SPimZTIkPbG1fdSz">
+
+paypal.com
+https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Fsummary&state=%3Fcountry.x%3DCA%26locale.x%3Den_CA
+1.<input type="hidden" id="token" name="_csrf" value="AkTE5uRFiXw7K+zWQy+JxKTkfCqVXyuk1qnl0=">
+2.<input type="hidden" name="locale.x" value="en_US">
+3.<input type="hidden" name="processSignin" value="main">
+4.<input type="hidden" name="intent" value="signin">

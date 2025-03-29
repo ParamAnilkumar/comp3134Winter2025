@@ -1,0 +1,2 @@
+strip_tags removes all HTML and PHP tags from user input. It protects the site from XSS attacks by deleting any script or tag, but it also removes any formatting that might be useful.
+

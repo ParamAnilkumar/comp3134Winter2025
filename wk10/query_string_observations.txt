@@ -1,0 +1,9 @@
+1.When I navigated to form and entered a world("assaulter"). And then i searched the world, i see the cookie has new value in inspect and i cannot se any new file created. Talking about page of website, it was showing breakdown of word i searched and all the other related information.
+
+2.I searched khalidX12 as a non valid word. The page was showing No result found for khalidX12 and there were some other suggestions below the word(similar to that word).
+
+3. No results found for <script>alert('hello')</script>
+
+4. Oops
+[ oops, oops ]
+The sound we make when we can’t find the page you’re looking for. We are so sorry! Please try again later!

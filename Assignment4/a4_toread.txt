@@ -1,0 +1,5 @@
+<script>document.body.style.backgroundColor = "lightblue";</script>
+<?php phpinfo(); ?>
+Hey everyone
+Param this side
+take care!

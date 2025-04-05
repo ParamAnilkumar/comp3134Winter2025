@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reflected XSS Demo</title>
+    <script>
+        function handleFormSubmit(event) {
+            event.preventDefault(); // Stops form from refreshing the page
+            var userInput = document.getElementById("userInput").value;
+            document.getElementById("output").innerHTML = userInput;
+        }
+    </script>
+</head>
+<body>
+    <h1>Reflected XSS Demo</h1>
+    <form onsubmit="handleFormSubmit(event)">
+        <input type="text" id="userInput" placeholder="Enter something" />
+        <button type="submit">Submit</button>
+    </form>
+    <div id="output"></div>
+</body>
+</html>

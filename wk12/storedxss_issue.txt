@@ -1,0 +1,3 @@
+The program publishes file content directly without sanitization, enabling uncontrolled JavaScript execution. This is one of the issues found in stored XSS.
+ The storedxss.txt malicious script has the ability to reroute users or carry out other undesirable tasks.
+ Every person who visits the vulnerable website may be impacted by this persistent stored attack.

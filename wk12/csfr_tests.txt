@@ -1,0 +1,5 @@
+1. A random session token is created in csfr_form.php and sent as a hidden input in the form.
+ 2. To make sure the request originated from a legitimate source, the token is evaluated in csfr_action.php.
+ 3. The request is blocked and a warning message is sent if the token is missing or incorrect.
+ 4. Since there is no token in the original csfr.html page, requests can be readily falsified.
+ 5. This mitigation strategy is an excellent way to stop CSRF attacks.
